@@ -1,0 +1,5 @@
+﻿  TiposVariaveisII.cpp
+C:\Users\usuario\source\repos\TiposVariaveisII\TiposVariaveisII.cpp(21,14): warning C4305: '=': truncation from 'char' to 'bool'
+C:\Users\usuario\source\repos\TiposVariaveisII\TiposVariaveisII.cpp(50,5): error C2084: function 'int main(void)' already has a body
+C:\Users\usuario\source\repos\TiposVariaveisII\TiposVariaveisII.cpp(4): message : see previous definition of 'main'
+C:\Users\usuario\source\repos\TiposVariaveisII\TiposVariaveisII.cpp(58,49): warning C4215: nonstandard extension used: long float
